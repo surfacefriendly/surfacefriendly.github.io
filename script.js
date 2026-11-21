@@ -54,7 +54,7 @@ document.addEventListener("DOMContentLoaded", function () {
   // 3. WhatsApp Enquiry Setup
   // Replace this example with your real WhatsApp number.
   // Use country code + number, without +, spaces or dashes.
-  const WHATSAPP_NUMBER = "917771936644";
+  const WHATSAPP_NUMBER = "919111423357";
 
   const defaultMessage =
     "Hello Friendly Surfaces! I would like to enquire about your products.";
